@@ -1,2 +1,0 @@
-C:\College Classes\Coding Projects\Visual Studio\Selenium_Search\Selenium_Search\bin\Debug\Selenium_Search.exe.config
-C:\College Classes\Coding Projects\Visual Studio\Selenium_Search\Selenium_Search\obj\Debug\Selenium_Search.csprojResolveAssemblyReference.cache
